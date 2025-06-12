@@ -43,6 +43,6 @@ See the [LICENSE](LICENSE) file for more details.
 ---
 
 > **Need help?**  
-> Join our [Discord support server](https://discord.gg/your-invite-link) for assistance and community chat!
+> Join our [Discord support server](https://discord.gg/WwApdk4z4H) for assistance and community chat!
 
 ---
