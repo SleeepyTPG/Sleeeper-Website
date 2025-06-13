@@ -1,6 +1,6 @@
 # 🌙 Sleeeper Discord Bot Website
 
-Welcome to the **official website** for the [Sleeeper Discord Bot](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID)!  
+Welcome to the **official website** for the [Sleeeper Discord Bot](https://discord.com/oauth2/authorize?client_id=1245051611584401441)!  
 Your all-in-one solution for moderation, utilities, and fun on Discord.
 
 ---
